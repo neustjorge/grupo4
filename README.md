@@ -1,4 +1,4 @@
-# Commits 
+# Commits modificacion 23/10/2024
 
 Este documento tiene como objetivo guiar sobre cómo realizar **commits** de manera efectiva en proyectos de software, utilizando Git como sistema de control de versiones.
 
